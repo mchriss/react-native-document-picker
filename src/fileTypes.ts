@@ -43,6 +43,7 @@ const extensions = Object.freeze({
   csv: '.csv',
   doc: '.doc',
   docx: '.docx',
+  gdoc: '.gdoc',
   images: '.jpeg .jpg .png',
   pdf: '.pdf',
   plainText: '.txt',
